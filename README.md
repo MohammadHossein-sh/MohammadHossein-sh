@@ -46,6 +46,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=MohammadHossein-sh&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&order=3" height="160" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadHossein-sh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadHossein-sh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&theme=tokyonight&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammadHossein-sh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="140" alt="languages graph"  />
 </div>
